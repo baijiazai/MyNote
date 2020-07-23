@@ -1,4 +1,12 @@
 # git 常用命令
+## github 下载提速方法
+1. 使用码云（gitee)
+2. 在github.com后面加上cnpmjs.org，换国内镜像（https://github.com.cnpmjs.org/baijiazai/MyNote.git)
+3. https://www.jsdelivr.com/ （使用cdn加速，适用于下载单文件）
+
+## 生成SSH公钥
+- `ssh-keygen -t rsa -C "邮箱"`
+
 ## 新建代码库
 - 在当前目录新建一个Git代码库
 	- `$ git init` 
